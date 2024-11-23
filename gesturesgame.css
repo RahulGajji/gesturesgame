@@ -1,0 +1,181 @@
+.background_container {
+
+
+  height: 100vh;
+  background-image: url('gameImages/rock--paper--scissors.avif');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  
+  
+}
+
+
+.information {
+
+  padding: 30px;
+  backdrop-filter: blur(5px);
+  border: 2px solid white;
+  border-radius: 5px;
+  background-image: url('gameImages/paper_bg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  
+
+}
+
+
+
+.game_container{
+  padding: 20px;
+  backdrop-filter: blur(5px);
+  border: 2px solid white;
+  border-radius: 5px;
+  background-image: url('gameImages/paper_bg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+
+
+
+.first_letter{
+
+
+  color: rgb(0, 255, 110);
+  font-size: 50px;
+  font-family:'Times New Roman', Times, serif;
+  font-weight: 800;
+  cursor: pointer;
+
+}
+
+.remaining_letters {
+
+
+color: rgb(0, 255, 255);
+font-size: 40px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: 600;
+cursor: pointer;
+
+}
+
+
+.first_letter{
+
+
+  color: rgb(0, 255, 110);
+  font-size: 50px;
+  font-family:'Times New Roman', Times, serif;
+  font-weight: 800;
+  cursor: pointer;
+
+}
+
+.remaining_letters {
+
+
+color: rgb(0, 255, 255);
+font-size: 40px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: 600;
+cursor: pointer;
+
+}
+
+
+.p2 {
+
+  font-size: 22px;
+  color: rgb(243, 213, 108);
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  cursor: pointer;
+}
+
+
+.hand_images {
+
+
+
+  max-height: 100px;
+  max-width: 100px;
+  border-radius: 50%;
+  margin-left: 10px;
+  margin-right: 10px;
+  cursor: pointer;
+ 
+}
+
+
+.hand_images:hover{
+
+border: 2px solid white;
+cursor: pointer;
+
+}
+
+
+.p3 {
+  font-size: 22px;
+  color: rgb(243, 213, 108);
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 15px;
+  cursor: pointer;
+}
+
+
+.computer_image {
+
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+
+
+.p4 {
+
+
+  font-size: 30px;
+  color: rgb(251, 152, 255);
+  font-family:serif;
+  text-align: center;
+  cursor: pointer;
+  cursor: pointer;
+  
+  
+}
+
+.p5 {
+
+
+  font-size: 18px;
+  color: rgb(243, 213, 108);
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 15px;
+  cursor: pointer;
+
+}
+
+.result_numbers {
+
+  font-size: 18px;
+  color: rgb(246, 144, 255);
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 15px;
+  cursor: pointer;
+
+}
+
+i {
+
+
+  font-size: 18px;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+}
